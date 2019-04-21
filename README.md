@@ -7,4 +7,4 @@ It show an array of images one by one at a time
   * Images can be switched manually by pressing the left or right of the screen.
   * Image time will be stopped during long press to the screen.
   
- ![Alt text]
+ ![Alt text](https://github.com/sawarni99/Image-Story/blob/master/imageStory_Image.jpeg?raw=true "Screen Shot")
